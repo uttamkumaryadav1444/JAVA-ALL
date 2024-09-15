@@ -1,0 +1,30 @@
+/*
+   floating point 
+double 64
+float 32
+
+
+
+
+*/
+
+import java.util.*;
+class floatDemo
+{
+     public static viod main(String a[])
+     {
+
+        Scanner sc=new Scanner(System.in);
+        double d=12.15454
+        float f=2.34f;
+        //take input double datatype value
+        System.out.println("Enter the value double type:");
+        double d2=sc.next Double();
+        System.out.println("Enter the value of float")
+        float f2=sc.next Float();
+
+     }
+
+
+
+}
